@@ -21,15 +21,15 @@ body, html{
     background-attachment: fixed;
 }
 .pimg1{
-background-image: url("/img/593268.jpg");
+background-image: url("img/593268.jpg");
 min-height: 1000px;
 }
 .pimg2{
-background-image: url("/img/674975.jpg");
+background-image: url("img/674975.jpg");
 min-height: 800px;
 }
 .pimg3{
-background-image: url("/img/675156.jpg");
+background-image: url("img/675156.jpg");
 min-height: 800px;
 }
 
